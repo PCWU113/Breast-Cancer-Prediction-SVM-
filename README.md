@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-SVM-
-## Functionally equivalent classification using Sk-Learn perform a classification investigarion using Support Vector Machines
+Functionally equivalent classification using Sk-Learn perform a classification investigarion using Support Vector Machines
 
 ## Strategy:
 
